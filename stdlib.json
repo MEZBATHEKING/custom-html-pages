@@ -2,7 +2,7 @@
   "name": "mezbatheking/app736",
   "timeout": 10000,
   "connector": false,
-  },
+
   "env": [
     {
       "name": "ASTRA_DB_APPLICATION_TOKEN",

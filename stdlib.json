@@ -2,7 +2,6 @@
   "name": "mezbatheking/app736",
   "timeout": 10000,
   "connector": false,
-
   },
   "env": [
     {

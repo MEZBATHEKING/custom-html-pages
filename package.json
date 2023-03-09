@@ -1,0 +1,9 @@
+{
+  "name": "new-project",
+  "author": "Mezbatheking",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "@astrajs/collections": "^0.3.4"
+  }
+}

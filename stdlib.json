@@ -1,0 +1,24 @@
+{
+  "name": "mezbatheking/app736",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/autocode/self/deployed.js": {
+      "name": "autocode.self.deployed"
+    }
+  },
+  "env": [
+    {
+      "name": "ASTRA_DB_APPLICATION_TOKEN",
+      "description": "Your ASTRA DATABASE APPLICATION TOKEN"
+    },
+    {
+      "name": "ASTRA_DB_ID",
+      "description": ""
+    },
+    {
+      "name": "ASTRA_DB_REGION",
+      "description": ""
+    }
+  ]
+}

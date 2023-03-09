@@ -1,0 +1,6 @@
+{
+  "functions/create.js": {
+    "path": "world",
+    "html": "<p><b>OKAY</b></p>"
+  }
+}
